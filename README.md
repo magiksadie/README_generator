@@ -1,3 +1,29 @@
-# Professional README Generator Starter Code
+# README.md Generator
 
-[How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
+This application generates README.md files for your project.
+
+## Table of Contents
+
+* [Installation](#installation)
+* [Usage](#usage)
+* [License](#license)
+* [Screenshot](#screenshot)
+* [Questions](#questions)
+
+## Installation
+
+Please install packages with `npm i`.
+
+## Screenshot
+
+![screenshot](/assets/images/README_screenshot.jpg)
+
+## Questions
+
+### GitHub Profile
+
+https://github.com/magiksadie
+
+### Email
+
+magiksadie@gmail.com
